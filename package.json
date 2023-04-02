@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "web3": "^1.9.0"
+  },
+  "name": "ai_integrated_blockchain-autonomous",
+  "description": "netconvert --node-files Points.nod.xml --edge-files Paths.edg.xml -t Types.type.xml -o Map.net.xml",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
